@@ -1,0 +1,7 @@
+#AfterStep theme
+
+Function "ApplyTheme"
+	ChangeFeel feel.triangular
+	ChangeLook look.triangular
+	Background triangular_bg
+EndFunction
